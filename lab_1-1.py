@@ -4,4 +4,5 @@ def greeting():
     '''Prints "Hello World!" on a single line.'''
     print("Hello World!")
 
+help(greeting)
 greeting()
