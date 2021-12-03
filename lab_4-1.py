@@ -7,4 +7,5 @@ while True:
         break
     else:
         total += num
-        print(total)
+
+print("The sum of all the numbers entered is {}.".format(total))
